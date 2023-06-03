@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/GG7uIAXpYtQAAAAC/cats-cute.gif" width="300"/>
+  <img src="https://usagif.com/wp-content/uploads/2022/4hv9xm/red-panda-44.gif" width="auto" height="auto"/>
 </div>
